@@ -1,0 +1,9 @@
+Oanda_firststeps/
+Part2_Materials/
+Part5_Materials/
+data/
+*.pyc
+*.venv
+*.cfg
+.ipynb*
+keys.yaml

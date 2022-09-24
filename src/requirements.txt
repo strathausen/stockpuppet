@@ -1,0 +1,15 @@
+certifi==2022.6.15
+charset-normalizer==2.1.1
+idna==3.3
+numpy==1.23.2
+pandas==1.4.3
+pandas-ta==0.3.14b0
+python-dateutil==2.8.2
+pytz==2022.2.1
+PyYAML==6.0
+requests==2.28.1
+six==1.16.0
+tpqoa==0.0.55
+ujson==5.4.0
+urllib3==1.26.12
+v20==3.0.25.0
